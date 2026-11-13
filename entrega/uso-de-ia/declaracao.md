@@ -13,7 +13,7 @@ No mais o seu uso foi pra consultar documentação e me ajudar a estruturar melh
 
 ## Minha participação
 
-Realizei a investigação completa dos defeitos e implementei as correções descritas no README-ENTREGA.md. 
+Realizei a investigação completa dos defeitos e implementei as correções descritas no README-ENTREGA.md. Tendo escrito e documentado um rascunho a mão de todas as alterações, justificativas e decisões que tomei. 
 
 ## Registro das sessões
 
